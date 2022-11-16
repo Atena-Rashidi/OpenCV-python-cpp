@@ -25,6 +25,7 @@ print(r.shape)
 
 ''' ______________________________________________________________________ '''
 # Merging Channels with OpenCV
+# cv2.merge takes single channel images and combines them to make a multi-channel image.
 img_merged = cv.merge([b, g, r])
 cv.imshow('img_merged', img_merged)
 
