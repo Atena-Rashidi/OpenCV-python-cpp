@@ -11,3 +11,9 @@
   - Histogram Computation
   - Thresholding and Binarizing Images
   - Edge Detection
+
+
+
+
+# Sources:
+https://github.com/jasmcaus/opencv-course
